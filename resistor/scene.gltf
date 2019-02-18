@@ -1,0 +1,711 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 220,
+      "max": [
+        0.094140000641345978,
+        1.3853399753570557,
+        0.092519998550415039
+      ],
+      "min": [
+        -2.2741999626159668,
+        0.99949997663497925,
+        -0.092519998550415039
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2640,
+      "componentType": 5126,
+      "count": 220,
+      "max": [
+        0.90706890821456909,
+        0.980693519115448,
+        0.98078590631484985
+      ],
+      "min": [
+        -0.99990677833557129,
+        -0.980693519115448,
+        -0.98078590631484985
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 330,
+      "max": [
+        219
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5280,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        0.30138000845909119,
+        1.0019400119781494,
+        0.30000001192092896
+      ],
+      "min": [
+        -0.3075299859046936,
+        -1.0244400501251221,
+        -0.30000001192092896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15264,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        0.98076242208480835,
+        0.6792442798614502,
+        0.98078465461730957
+      ],
+      "min": [
+        -0.98076242208480835,
+        -0.67924958467483521,
+        -0.98078465461730957
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1320,
+      "componentType": 5125,
+      "count": 1248,
+      "max": [
+        831
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 25248,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.30065000057220459,
+        0.53692001104354858,
+        0.30000001192092896
+      ],
+      "min": [
+        -0.30006000399589539,
+        0.42616000771522522,
+        -0.30000001192092896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 26016,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.98076242208480835,
+        0.0067000165581703186,
+        0.98078465461730957
+      ],
+      "min": [
+        -0.98076242208480835,
+        -0.0067100157029926777,
+        -0.98078465461730957
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6312,
+      "componentType": 5125,
+      "count": 96,
+      "max": [
+        63
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 26784,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.23875999450683594,
+        0.25874000787734985,
+        0.23999999463558197
+      ],
+      "min": [
+        -0.24232000112533569,
+        0.095980003476142883,
+        -0.23999999463558197
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 27552,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.98076242208480835,
+        0.0067000165581703186,
+        0.98078465461730957
+      ],
+      "min": [
+        -0.98076242208480835,
+        -0.0067000165581703186,
+        -0.98078465461730957
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6696,
+      "componentType": 5125,
+      "count": 96,
+      "max": [
+        63
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28320,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.23631000518798828,
+        -0.099770002067089081,
+        0.23999999463558197
+      ],
+      "min": [
+        -0.2442999929189682,
+        -0.1926800012588501,
+        -0.23999999463558197
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 29088,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.98076242208480835,
+        0.0067000165581703186,
+        0.98078465461730957
+      ],
+      "min": [
+        -0.98076242208480835,
+        -0.0067000165581703186,
+        -0.98078465461730957
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 7080,
+      "componentType": 5125,
+      "count": 96,
+      "max": [
+        63
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 29856,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.29319998621940613,
+        -0.55304998159408569,
+        0.30000001192092896
+      ],
+      "min": [
+        -0.3075299859046936,
+        -0.66715002059936523,
+        -0.30000001192092896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 30624,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.98076242208480835,
+        0.0067000165581703186,
+        0.98078465461730957
+      ],
+      "min": [
+        -0.98076242208480835,
+        -0.0067000165581703186,
+        -0.98078465461730957
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 7464,
+      "componentType": 5125,
+      "count": 96,
+      "max": [
+        63
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31392,
+      "componentType": 5126,
+      "count": 228,
+      "max": [
+        0.080310001969337463,
+        -1.0244400501251221,
+        0.092519998550415039
+      ],
+      "min": [
+        -2.2906301021575928,
+        -1.3779000043869019,
+        -0.092519998550415039
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 34128,
+      "componentType": 5126,
+      "count": 228,
+      "max": [
+        0.90178853273391724,
+        0.98078745603561401,
+        0.9807855486869812
+      ],
+      "min": [
+        -1,
+        -0.98078745603561401,
+        -0.9807855486869812
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 7848,
+      "componentType": 5125,
+      "count": 330,
+      "max": [
+        227
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Zachary Ferguson (https://sketchfab.com/zfergus)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/170087afb2f1464dafe4875f0edb8283",
+      "title": "10K Ohm Resistor"
+    },
+    "generator": "Sketchfab-4.1.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 9168,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36864,
+      "byteOffset": 9168,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 46032,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "IronMaterial.005",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.80000001190000003,
+          0.80000001190000003,
+          0.80000001190000003,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0.39462652440000001
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "ResistorBaseMaterial.003",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.91138994689999997,
+          0.60536742210000005,
+          0.30354258420000002,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "ResistorColorOneMaterial.003",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.32777810099999999,
+          0.1022417322,
+          0.045186214099999997,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "ResistorColorTwoMaterial.003",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.049706574500000003,
+          0.038204375700000001,
+          0.026241220499999999,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "ResistorColorThreeMaterial.003",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.20507875079999999,
+          0.010329824899999999,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "ResistorColorFourMaterial.003",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.70110201839999997,
+          0.37626212840000001,
+          0.014443841799999999,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "IronMaterial.002",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.80000001190000003,
+          0.80000001190000003,
+          0.80000001190000003,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0.40000000000000002
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Resistor.000_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Resistor.000_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Resistor.000_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Resistor.000_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Resistor.000_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Resistor.000_5",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Resistor.000_6",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18
+          },
+          "indices": 20,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -0.01618165522813797,
+        0.99777096509933472,
+        0.98758965730667114,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "matrix": [
+        0.0068400000000000023,
+        -0.99997999999999998,
+        0,
+        0,
+        0.99997999999999998,
+        0.0068400000000000023,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Resistor.000"
+    },
+    {
+      "mesh": 0,
+      "name": "Resistor.000_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Resistor.000_1"
+    },
+    {
+      "mesh": 2,
+      "name": "Resistor.000_2"
+    },
+    {
+      "mesh": 3,
+      "name": "Resistor.000_3"
+    },
+    {
+      "mesh": 4,
+      "name": "Resistor.000_4"
+    },
+    {
+      "mesh": 5,
+      "name": "Resistor.000_5"
+    },
+    {
+      "mesh": 6,
+      "name": "Resistor.000_6"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
